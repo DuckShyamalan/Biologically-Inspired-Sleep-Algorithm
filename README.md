@@ -1,5 +1,5 @@
 # COMP6248-Reproducibility-Challenge
-COMP6248 Reproducibility Challenge Team Repo
+COMP6248 Reproducibility Challenge Team Repo for "The Deep Learners"
 
 **Topic:** Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks  
 **Authors:** Timothy Tadros, Giri Krishnan, Ramyaa Ramyaa, Maxim Bazhenov  
